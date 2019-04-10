@@ -22,6 +22,10 @@ div#the-poly-group:hover {
   opacity: 1;
 }
 
+ul, li {
+  margin-bottom: 0;
+}
+
 /*---------- FOOTER end ------------*/
 
 /*---------- [MEDIA QUERIES] start ------------*/
