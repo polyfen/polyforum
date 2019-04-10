@@ -1,5 +1,5 @@
 <head>
-  <title>The Poly Group</title>
+  <title>Poly Forum</title>
 
 
   <!-- META General -->
@@ -10,10 +10,10 @@
 
 
   <!-- META Page-Specific -->
-  <meta property="og:title" content="The Poly Group"/>
-  <meta property="og:url" content="http://thepolygroup.co"/>
+  <meta property="og:title" content="Poly Forum"/>
+  <meta property="og:url" content="http://polyforum.org"/>
   <meta name="keywords" content="creative, corporation, enterprise, portfolio, brand, branding" />
-  <meta name="description" property="og:description" content="The Poly Group incorporates multiple businesses and organisations related to the creative industry." />
+  <meta name="description" property="og:description" content="A world-wide network of designers. A place to discuss branding, share tips and resources, ask questions, and request feedback." />
   <meta property="og:image" content="[TBD]"/>
   <meta name="robots" content="noindex,nofollow"> <!-- [TBD] robots -->
 
@@ -48,6 +48,31 @@
   <!-- CSS Page-Specific-->
 
   <!-- FONTS -->
+  <!--
+  /**
+   * @license
+   * MyFonts Webfont Build ID 3612228, 2018-07-19T08:39:14-0400
+   *
+   * The fonts listed in this notice are subject to the End User License
+   * Agreement(s) entered into by the website owner. All other parties are
+   * explicitly restricted from using the Licensed Webfonts(s).
+   *
+   * You may obtain a valid license at the URLs below.
+   *
+   * Webfont: InteloAlt-Bold by Kastelov
+   * URL: https://www.myfonts.com/fonts/kastelov/intelo/alt-bold/
+   *
+   * Webfont: InteloAlt-SemiBold by Kastelov
+   * URL: https://www.myfonts.com/fonts/kastelov/intelo/alt-semi-bold/
+   *
+   *
+   * License: https://www.myfonts.com/viewlicense?type=web&buildid=3612228
+   * Licensed pageviews: 10,000
+   * Webfonts copyright: Copyright &#x00A9; 2016 by Galin Kastelov. All rights reserved.
+   *
+   * © 2018 MyFonts Inc
+  */
+  -->
   <link rel="stylesheet" type="text/css" href="libs/fonts/MyFontsWebfontsKit.css">
   <link rel="stylesheet" href="https://use.typekit.net/aba8ecz.css">
   <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Source+Serif+Pro:400,700" rel="stylesheet">

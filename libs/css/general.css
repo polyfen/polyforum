@@ -6,7 +6,7 @@
 }
 
 html, body {
-  background: #f0f1f2; /* Space */;
+  background: #FEF4E6; /* Space */;
 }
 
 .col {
@@ -47,12 +47,12 @@ html, body {
 }
 
 ::-moz-selection { /* Code for Firefox */
-  background: #12123a; /* Cherry */
+  background: #f75e78; /* Cherry */
   color: white; /* Space */
 }
 
 ::selection {
-  background: #12123a; /* Cherry */
+  background: #f75e78; /* Cherry */
   color: white; /* Space */
 }
 
@@ -69,12 +69,15 @@ li {
   padding: 0 4px;
 }
 
-footer a {
-  color: #aeaeaeAA;
+footer li a i {
+  color: #F75E78;
+  opacity: 0.7;
+  font-size: 1.55rem;
 }
 
-footer a:hover {
-  color: #aeaeae;
+footer li a:hover i {
+  color: #F75E78;
+  opacity: 1;
 }
 
 /*---------- GENERAL end ------------*/
