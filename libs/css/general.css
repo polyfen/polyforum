@@ -1,0 +1,106 @@
+/*---------- GENERAL start------------*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  background: #f0f1f2; /* Space */;
+}
+
+.col {
+  text-align: center;
+}
+
+.col hr {
+  margin: 1.5rem 0;
+}
+
+.col p {
+  text-align: left;
+}
+
+.card {
+  background: #fbfbfb;
+  padding: 35px 20px 20px;
+  border-radius: 0 0 6px 6px;
+  border: none;
+  box-shadow: 0 4px 8px #0001;
+  height: 300px;
+}
+
+.card#polyfen {
+  border-top: 6px solid #7800ff;
+}
+
+.card#polykad {
+  border-top: 6px solid #1e8df0;
+}
+
+.card#poly-atlas {
+  border-top: 6px solid #02bc9d;
+}
+
+.card#poly-forum {
+  border-top: 6px solid #f75e78;
+}
+
+::-moz-selection { /* Code for Firefox */
+  background: #12123a; /* Cherry */
+  color: white; /* Space */
+}
+
+::selection {
+  background: #12123a; /* Cherry */
+  color: white; /* Space */
+}
+
+button, a {
+  cursor: pointer;
+}
+
+a, a:active, a:hover {
+  color: #TBD;
+}
+
+li {
+  display: inline;
+  padding: 0 4px;
+}
+
+footer a {
+  color: #aeaeaeAA;
+}
+
+footer a:hover {
+  color: #aeaeae;
+}
+
+/*---------- GENERAL end ------------*/
+
+
+/*---------- [MEDIA QUERIES] start ------------*/
+
+
+/* Extra small devices (portrait phones, less than 576px) */
+/* No media query for `xs` since this is the default in Bootstrap */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+}
+
+
+/*---------- [MEDIA QUERIES] end ------------*/

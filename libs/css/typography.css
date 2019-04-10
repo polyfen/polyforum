@@ -1,0 +1,123 @@
+/*---------- TYPOGRAPHY start ------------*/
+
+p, p a, li, p i, p strong, li strong, blockquote /* (mobile) */ {
+  font-size: 21px;
+  letter-spacing: 0.1px;
+  line-height: 1.4;
+  text-align: left;
+  font-weight: 400 /*regular*/;
+  font-style: normal;
+  color: #00000091 /*cloud*/;
+  font-family: 'freight-text-pro', serif;
+  text-rendering: optimizeLegibility;
+  font-kerning: normal !important;
+  -moz-font-feature-settings: "kern", "liga", "clig", "calt";
+  -ms-font-feature-settings: "kern", "liga", "clig", "calt";
+  -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+  font-feature-settings: "kern", "liga", "clig", "calt";
+  max-width: 860px;
+  margin-bottom: 2rem;
+}
+
+p a:hover {
+  color: #046ac5 !important;
+}
+
+div#polyfen p a {
+  color: #7800ff;
+  color: #1e8df0;
+}
+
+div#polykad p a {
+  color: #1e8df0;
+}
+
+div#poly-atlas p a {
+  color: #02bc9d;
+  color: #1e8df0;
+}
+
+div#poly-forum p a {
+  color: #f75e78;
+  color: #1e8df0;
+}
+
+
+blockquote {
+  font-style: italic;
+  border-left: 4px solid whitesmoke;
+  padding-left: 20px;
+}
+
+p i {
+  font-style: italic;
+  color: #655353FF /*cloud*/;
+}
+
+p strong, li strong {
+  color: #000;
+}
+
+button, a.buttons /* (mobile) */ {
+  font-size: 21px;
+  letter-spacing: 1.4px;
+  line-height: normal;
+  text-align: center;
+  font-weight: 600 /* semi-bold */;
+  font-style: normal;
+  color: #D8D8D8 /* cloud */;
+  font-family: 'InteloAlt-SemiBold', sans-serif;
+  text-rendering: optimizeLegibility;
+  font-kerning: normal !important;
+  -moz-font-feature-settings: "kern", "liga", "clig", "calt";
+  -ms-font-feature-settings: "kern", "liga", "clig", "calt";
+  -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+  font-feature-settings: "kern", "liga", "clig", "calt";
+}
+
+a small, small /* (mobile) */ {
+  font-size: 16px;
+  letter-spacing: 1px;
+  line-height: normal;
+  text-align: center;
+  font-weight: normal /* semi-bold */;
+  font-style: normal;
+  color: #D8D8D8 /*cloud*/;
+  font-family: 'InteloAlt-SemiBold', sans-serif;
+  text-rendering: optimizeLegibility;
+  font-kerning: normal !important;
+  -moz-font-feature-settings: "kern", "liga", "clig", "calt";
+  -ms-font-feature-settings: "kern", "liga", "clig", "calt";
+  -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+  font-feature-settings: "kern", "liga", "clig", "calt";
+}
+
+footer small {
+  text-align: left;
+  opacity: 0.75;
+}
+
+/*–––––––––––––––––––– MEDIA QUERIES  ––––––––––––––––––––*/
+
+
+/* Extra small devices (portrait phones, less than 576px) */
+/* No media query for `xs` since this is the default in Bootstrap */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+}
+
+
+/*---------- TYPOGRAPHY end------------*/
