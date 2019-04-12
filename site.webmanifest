@@ -1,6 +1,6 @@
 {
-    "name": "The Poly Group",
-    "short_name": "The Poly Group",
+    "name": "Poly Forum",
+    "short_name": "Poly Forum",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#f75e78",
+    "background_color": "#f75e78",
     "display": "standalone"
 }
