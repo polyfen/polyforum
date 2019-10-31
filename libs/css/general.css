@@ -18,6 +18,25 @@ html, body {
   margin-top: 25px;
 }
 
+#education-image {
+  height: 200px;
+  width: 100%;
+  background: url('../../imgs/education.svg') no-repeat center;
+  background-size: contain;
+  border-radius: 0 0 6px 6px;
+  margin-top: 40px;
+}
+
+#slack-image {
+  height: 200px;
+  width: 100%;
+  background: url('../../imgs/slack.svg') no-repeat center;
+  background-size: contain;
+  border-radius: 0 0 6px 6px;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
 .col {
   text-align: left;
 }
@@ -59,7 +78,7 @@ html, body {
   background: white;
   border-radius: 6px;
   box-shadow: 0 0 10px #0002;
-  margin: 40px 0;
+  margin: 20px 0;
   padding: 25px 0 0;
 }
 
@@ -85,7 +104,15 @@ button, a {
 }
 
 a, a:active, a:hover {
-  color: #TBD;
+  color: #0009;
+  padding-bottom: 3px;
+  border-bottom: 2px solid #f75e7899;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f75e78;
+  border-bottom-color: #f75e78;
 }
 
 li {
@@ -102,6 +129,14 @@ footer li a i {
 footer li a:hover i {
   color: #F75E78;
   opacity: 1;
+}
+
+span.event-details {
+  color: #0004;
+}
+
+a.event-name {
+  font-size: 1.5rem;
 }
 
 /*---------- GENERAL end ------------*/
