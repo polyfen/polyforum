@@ -30,7 +30,7 @@ h2 /* (mobile) */ {
   text-align: left;
   font-weight: normal /* bold */;
   font-style: normal;
-  color: #00bbce;
+  color: #F75E78;
   font-family: 'Biotif', Helvetica, Arial, sans-serif;
   text-rendering: optimizeLegibility;
   font-kerning: normal !important;
@@ -58,7 +58,7 @@ p, p a, li, p i, p strong, li strong, blockquote /* (mobile) */ {
   font-size: 21px;
   letter-spacing: 0.1px;
   line-height: 1.4;
-  text-align: center !important;
+  text-align: left;
   margin: auto;
   font-weight: 400 /*regular*/;
   font-style: normal;

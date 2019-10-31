@@ -1,4 +1,4 @@
-<footer>
+<footer class="d-none">
 
   <div id="social-icons">
     <ul>
