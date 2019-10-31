@@ -1,3 +1,3 @@
 <header>
-  <img src="imgs/poly-forum.svg" height="50px" width="auto" alt="Poly Forum">
+  <img src="imgs/poly-forum.svg" id="logo" alt="Poly Forum">
 </header>

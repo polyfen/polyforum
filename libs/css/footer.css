@@ -1,21 +1,24 @@
 /*---------- FOOTER start ------------*/
 
 footer {
-  background: #TBD;
   text-align: center;
-  position: absolute;
-  bottom: 0;
   width: 100%;
   padding: 20px 10px 20px 20px;
 }
 
+footer div#the-poly-group a, footer div#social-icons a, footer div#the-poly-group a:hover, footer div#social-icons a:hover {
+  border-bottom: none;
+}
+
 div#social-icons {
   float: left;
+  padding-top: 5px;
 }
 
 div#the-poly-group {
   float: right;
   opacity: 0.8;
+  margin-top: -2px;
 }
 
 div#the-poly-group:hover {
@@ -24,6 +27,20 @@ div#the-poly-group:hover {
 
 ul, li {
   margin-bottom: 0;
+}
+
+div#legal {
+  border-top: 2px solid #0001;
+  margin-top: 10px;
+  padding-top: 20px;
+}
+
+div#legal a {
+  color: #0004;
+}
+
+div#legal a:hover {
+  color: #0009;
 }
 
 /*---------- FOOTER end ------------*/

@@ -38,6 +38,10 @@ html, body {
   margin-bottom: 30px;
 }
 
+a#signup-button {
+  margin-bottom: 10px;
+}
+
 .col {
   text-align: left;
 }
@@ -145,12 +149,21 @@ a.event-name {
 
 /*---------- [MEDIA QUERIES] start ------------*/
 
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 400px) {
+
+  a#signup-button {
+    margin-bottom: 0px;
+  }
+
+}
 
 /* Extra small devices (portrait phones, less than 576px) */
 /* No media query for `xs` since this is the default in Bootstrap */
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
+
 }
 
 /* Medium devices (tablets, 768px and up) */

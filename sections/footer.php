@@ -1,4 +1,4 @@
-<footer class="d-none">
+<footer>
 
   <div id="social-icons">
     <ul>
@@ -11,6 +11,12 @@
     <a href="http://thepolygroup.co" target="_blank">
       <img src="imgs/the-poly-group.svg" height="35px" width="auto" alt="The Poly Group">
     </a>
+  </div>
+
+  <div style="clear:both"></div>
+
+  <div id="legal">
+    <a>Privacy Policy</a> <span style="color:#0002;margin:0 5px;">|</span> <a>Terms of Service</a>
   </div>
 
 </footer>

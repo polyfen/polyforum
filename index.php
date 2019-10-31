@@ -13,7 +13,7 @@
 
     <div class="container-fluid" style="padding: 0 20px;">
 
-      <div class="row" style="padding: 120px 0 20px;background: white;margin: -90px -20px 20px; box-shadow: inset 0 0px 10px;">
+      <div class="row" style="padding: 200px 0 20px;background: white;margin: -90px -20px 20px; box-shadow: inset 0 0px 10px;">
         <div class="col" style="text-align:center;">
 
           <h1>An international community of creatives</h1>
@@ -40,14 +40,14 @@
 
               <span class="event-details">14th January 2019<br/>
               Melbourne, Australia<br/></span>
-              <a href="" class="event-name">Beer &amp; Networking</a>
+              <a href="#" class="event-name">Beer &amp; Networking</a>
 
               <div class="border">
               </div>
 
               <span class="event-details">4th February 2019<br/>
               Mar del Plata, Argentina<br/></span>
-              <a href="" class="event-name">Let's talk Branding</a>
+              <a href="#" class="event-name">Let's talk Branding</a>
 
             </div>
 

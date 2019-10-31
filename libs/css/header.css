@@ -1,8 +1,16 @@
 /*---------- HEADER start ------------*/
 
   header {
-    padding: 20px;
+    padding: 15px;
     border-top: 12px solid #f75d78;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+  header img#logo {
+    height: 35px;
+    width: auto;
   }
 
 /*---------- HEADER end ------------*/
@@ -26,6 +34,15 @@
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
+
+  header {
+    padding: 20px;
+  }
+
+  header img#logo {
+    height: 50px;
+  }
+
 }
 
 /* Large devices (desktops, 992px and up) */
