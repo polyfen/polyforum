@@ -6,7 +6,7 @@
     </div>
     <div class="modal-window-content">
       <h4><br/>Your privacy is important to us.</h4>
-      <p><br/>It is Polyfen's policy to respect your privacy regarding any information we may collect from you across our website, <a href="https://polyfen.com">https://polyfen.com</a>, and other sites we own and operate.</p>
+      <p><br/>It is Poly Forum's policy to respect your privacy regarding any information we may collect from you across our website, <a href="https://polyforum.org">https://polyforum.org</a>, and other sites we own and operate.</p>
       <p>We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.</p>
       <p>We rely on standard web trackers, namely Google Analytics, in order to measure our web usage and provide a better browsing experience. Google Analytics may collect data such us your IP address, web browser, operative system, geographical region, usage activity, as well as other demographic information.</p>
       <p>Other third-party tools on our website, namely Cloudfare, Pinterest, FontAwesome, and Typekit additionally rely on cookies to provide web features for the end-user.</p>
@@ -17,7 +17,7 @@
       <p>You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.</p>
       <p>If you have any questions about how we handle user data and personal information, feel free to contact us. Likewise, you’d like to request the deletion of your data in our systems, you are welcome to contact us for that purpose.</p>
       <p>You can contact us via email at <a href="mailto:privacy@thepolygroup.co">privacy@thepolygroup.co</a>.</p>
-      <p>The business development hereby identified as “Polyfen” is represented by Boris Hrncic. In the event of transfer of ownership of the business and/or the website, the user consents to the transfer of applicable web content as well as applicable user data.</p>
+      <p>The organization hereby identified as “Poly Forum” is represented by Boris Hrncic. In the event of transfer of ownership of the organization and/or the website, the user consents to the transfer of applicable web content as well as applicable user data.</p>
       <p>This policy is effective as of January 1st 2019.</p>
     </div>
   </div>

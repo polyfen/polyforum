@@ -6,7 +6,12 @@
 }
 
 html, body {
-  background: #FEF4E6; /* Space */;
+  background: #FBFBFB; /* Space */;
+  background: url('../../imgs/texture-b.png') repeat center !important;
+}
+
+div#cover {
+  background: url('../../imgs/texture.png') repeat center !important;
 }
 
 #events-image {
@@ -63,26 +68,8 @@ a#signup-button {
   height: 300px;
 }
 
-.card#polyfen {
-  border-top: 6px solid #7800ff;
-}
-
-.card#polykad {
-  border-top: 6px solid #1e8df0;
-}
-
-.card#poly-atlas {
-  border-top: 6px solid #02bc9d;
-}
-
-.card#poly-forum {
-  border-top: 6px solid #f75e78;
-}
-
 .card-wrapper {
-  background: white;
   border-radius: 6px;
-  box-shadow: 0 0 10px #0002;
   margin: 20px 0;
   padding: 25px 0 25px;
 }
@@ -92,6 +79,8 @@ a#signup-button {
   height: 2px;
   background: #0002;
   margin: 20px 0;
+  border-color: #000 !important;
+  opacity: 0.1;
 }
 
 ::-moz-selection { /* Code for Firefox */
@@ -137,12 +126,214 @@ footer li a:hover i {
 }
 
 span.event-details {
-  color: #0004;
+  color: #0005;
 }
 
 a.event-name {
   font-size: 1.5rem;
 }
+
+.card-buttons-wrapper {
+  text-align: center;
+}
+
+div#events-wrapper, div#polyatlas-wrapper, div#slack-wrapper {
+  padding-left: 0;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+div.modal-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  background: #03041bcc;
+}
+
+div.modal-window {
+  height: 100%;
+  width: 100%;
+  background: #fff;
+  border-radius: 0;
+  margin-top: 60px;
+  overflow: hidden;
+}
+
+div.modal-window div.modal-window-header {
+  background: #232361;
+  position: fixed;
+  z-index: 1010;
+  width: 100%;
+  border-radius: 0;
+  padding: 10px 12px 12px;
+  margin: -60px 0;
+  height: 60px;
+}
+
+div.modal-window div.modal-window-header h3 {
+  color: #fff;
+  margin: 5px 0;
+}
+
+div.modal-window div.modal-window-header i.fa-times {
+  right: 9px;
+  position: absolute;
+  color: #ffffff82;
+  border-radius: 20px;
+  text-align: center;
+  top: 9px;
+  cursor: pointer;
+  font-size: 1.25rem;
+  -webkit-transition: -webkit-transform .2s ease-in-out;
+  transition:transform .2s ease-in-out;
+}
+
+div.modal-window div.modal-window-header i.fa-times:hover {
+  color: #fff !important;
+}
+
+div.modal-window div.modal-window-content {
+  padding: 20px 8px 70px 10px;
+  overflow-y: scroll;
+  height:100%;
+}
+
+div.modal-window div.modal-window-content h4 {
+  color: #191947cc;
+  margin: 5px 0 5px;
+}
+
+div.modal-window p, div.modal-window li, div.modal-window p a {
+  color: #19191fC2;
+}
+
+div.modal-window p a:hover {
+  color: #191947;
+}
+
+div.modal-window p a:hover {
+  color: black !important;
+}
+
+div.modal-window li {
+  margin-left: 23px;
+  margin-bottom: 1rem;
+}
+
+div.modal-window p, div.modal-window ol ol {
+  margin-top: 15px;
+}
+
+div.modal-window div.modal-window-content hr {
+  margin: 40px 0;
+}
+
+@media (min-width:576px) {
+
+  div.modal-window div.modal-window-content {
+    padding: 25px 25px 70px 25px;
+  }
+
+}
+
+@media (min-width:768px){
+
+  div.modal-window {
+    max-width: 744px;
+    margin: calc(5% + 70px) auto;
+    height: calc(90% - 140px);
+    max-height: 100%;
+    border-radius: 0 0 10px 10px;
+  }
+
+  div.modal-window div.modal-window-header {
+    max-width: 744px;
+    padding: 16px 20px 12px;
+    border-radius: 6px 6px 0 0;
+    margin: 0;
+    height: 75px;
+    margin-top: -75px;
+  }
+
+  div.modal-window div.modal-window-header h3 {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+  }
+
+  div.modal-window div.modal-window-content {
+    padding: 40px;
+  }
+
+  div.modal-window div.modal-window-header i.fa-times {
+    right: 15px;
+    top: 12px;
+    font-size: 1.5rem;
+  }
+
+}
+
+@media(min-width:1200px){
+
+  div.modal-window div.modal-window-header {
+    padding: 16px 20px 12px;
+  }
+
+}
+
+/*///////////// COOKIES MODAL START /////////////*/
+
+div#cookies-modal {
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  background: #F9F9F9;
+  border-radius: 0px;
+  box-shadow: 0 0 10px #0004;
+  z-index: 999999;
+  padding: 15px 20px 50px;
+  width: 100%;
+}
+
+div#cookies-modal p, div#cookies-modal p a {
+  font-size: 1.2rem;
+  color: #0009;
+}
+
+div#cookies-modal p a:hover {
+  color: #000;
+}
+
+div#cookies-modal a.cookies-button {
+  background: #F75E78;
+  border-radius: 100px;
+  width: calc(100% - 37px);
+  position: absolute;
+  padding: 7px 0 4px;
+  margin-top: -10px;
+  color: white;
+  box-shadow: 0 0 10px #F75E78;
+  font-size: 1.2rem;
+}
+
+@media (min-width:600px) {
+
+  div#cookies-modal {
+    right: 20px;
+    bottom: 20px;
+    border-radius: 6px;
+    width: 320px;
+  }
+
+}
+
+/*///////////// COOKIES MODAL END /////////////*/
 
 /*---------- GENERAL end ------------*/
 
@@ -168,10 +359,58 @@ a.event-name {
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
+
+  div#cover {
+    padding: 250px 0 100px !important;
+  }
+
+  #events-image {
+    float: right;
+  }
+
+  #education-image {
+    float: right;
+  }
+
+  #slack-image {
+    float: right;
+  }
+
+  a#signup-button {
+    margin-bottom: 10px;
+  }
+
+  .card-buttons-wrapper {
+    text-align: left;
+  }
+
+  div#events-wrapper {
+    margin-top: 40px;
+  }
+
+  div#events-wrapper div.border {
+    width: 250px;
+    margin: 30px 0;
+  }
+
+  footer {
+    padding-top: 80px !important;
+  }
+
+  div#legal {
+    margin-top: -50px !important;
+  }
+
 }
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
+
+  div.card-wrapper {
+    max-width: 720px;
+    margin: 40px auto;
+  }
+
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
