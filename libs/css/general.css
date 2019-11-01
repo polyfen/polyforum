@@ -307,7 +307,7 @@ div#cookies-modal p, div#cookies-modal p a {
 }
 
 div#cookies-modal p a:hover {
-  color: #000;
+  color: #000 !important;
 }
 
 div#cookies-modal a.cookies-button {
