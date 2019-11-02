@@ -49,29 +49,29 @@
 
   <!-- FONTS -->
   <!--
-/**
- * @license
- * MyFonts Webfont Build ID 3771282, 2019-06-09T19:42:40-0400
- *
- * The fonts listed in this notice are subject to the End User License
- * Agreement(s) entered into by the website owner. All other parties are
- * explicitly restricted from using the Licensed Webfonts(s).
- *
- * You may obtain a valid license at the URLs below.
- *
- * Webfont: Biotif-Bold by Degarism Studio
- * URL: https://www.myfonts.com/fonts/degarism-studio/biotif/bold/
- * Copyright: Copyright &#x00A9; 2016 by Deni Anggara. All rights reserved.
- * Licensed pageviews: 20,000
- *
- *
- * License: https://www.myfonts.com/viewlicense?type=web&buildid=3771282
- *
- * © 2019 MyFonts Inc
-*/
+  /**
+   * @license
+   * MyFonts Webfont Build ID 3771282, 2019-06-09T19:42:40-0400
+   *
+   * The fonts listed in this notice are subject to the End User License
+   * Agreement(s) entered into by the website owner. All other parties are
+   * explicitly restricted from using the Licensed Webfonts(s).
+   *
+   * You may obtain a valid license at the URLs below.
+   *
+   * Webfont: Biotif-Bold by Degarism Studio
+   * URL: https://www.myfonts.com/fonts/degarism-studio/biotif/bold/
+   * Copyright: Copyright &#x00A9; 2016 by Deni Anggara. All rights reserved.
+   * Licensed pageviews: 20,000
+   *
+   *
+   * License: https://www.myfonts.com/viewlicense?type=web&buildid=3771282
+   *
+   * © 2019 MyFonts Inc
+  */
 
--->
-<link rel="stylesheet" type="text/css" href="libs/fonts/MyFontsWebfontsKit.css">
+  -->
+  <link rel="stylesheet" type="text/css" href="libs/fonts/MyFontsWebfontsKit.css">
   <link rel="stylesheet" href="https://use.typekit.net/aba8ecz.css">
   <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Source+Serif+Pro:400,700" rel="stylesheet">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">

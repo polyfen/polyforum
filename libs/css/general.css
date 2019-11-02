@@ -141,6 +141,8 @@ div#events-wrapper, div#polyatlas-wrapper, div#slack-wrapper {
   padding-left: 0;
 }
 
+/*///////////// LEGAL MODAL START /////////////*/
+
 .overflow-hidden {
   overflow: hidden;
 }
@@ -286,6 +288,9 @@ div.modal-window div.modal-window-content hr {
   }
 
 }
+
+/*///////////// LEGAL MODAL END /////////////*/
+
 
 /*///////////// COOKIES MODAL START /////////////*/
 
