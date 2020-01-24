@@ -23,7 +23,7 @@
 
       </div>
 
-      <div class="row">
+      <div class="row d-none">
         <div class="col">
 
           <div class="row card-wrapper">
@@ -77,7 +77,7 @@
 
               <div id="polyatlas-wrapper" class="col-12 col-md-6">
 
-                <p style="margin-top:30px;">A free framework of best practices in branding. It features a step-by-step guide to the branding process including practical tips, template files, and many other useful resources.</p>
+                <p style="margin-top:30px;">A free guide of best practices in branding. It features a step-by-step guide to the branding process including practical tips, template files, and many other useful resources.</p>
 
                 <div class="card-buttons-wrapper">
                   <a class="button" href="https://polyatlas.app" target="_blank">polyatlas.app <span style="opacity: 0.5;color: white;">›</span></a>
