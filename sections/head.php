@@ -14,8 +14,8 @@
   <meta property="og:url" content="http://polyforum.org"/>
   <meta name="keywords" content="creative, corporation, enterprise, portfolio, brand, branding" />
   <meta name="description" property="og:description" content="A world-wide network of designers. A place to discuss branding, share tips and resources, ask questions, and request feedback." />
-  <meta property="og:image" content="[TBD]"/>
-  <meta name="robots" content="noindex,nofollow"> <!-- [TBD] robots -->
+  <meta property="og:image" content="http://polyforum.org/imgs/meta.png"/>
+  <meta name="robots" content="index,follow">
 
 
   <!-- FAVICON -->
