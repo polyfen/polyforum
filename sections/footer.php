@@ -32,3 +32,20 @@
   </div>
 
 </footer>
+
+<!-- Cookies GDPR Toggle start -->
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@beta/dist/js.cookie.min.js"></script>
+<script type = "text/javascript">
+$( document ).ready(function() {
+	if(Cookies.get('polyfen_GDPR') === undefined) {
+		$('#cookies-modal').removeClass("d-none");
+	} else {
+		$('#cookies-modal').addClass("d-none");
+	}
+
+	$(".cookies-button").click(function() {
+		Cookies.set('polyfen_GDPR', 'accept');
+	});
+});
+</script>
+<!-- Cookies GDPR Toggle end -->
