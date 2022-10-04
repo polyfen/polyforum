@@ -304,6 +304,7 @@ div#cookies-modal {
   z-index: 999999;
   padding: 15px 20px 50px;
   width: 100%;
+  display: none;
 }
 
 div#cookies-modal p, div#cookies-modal p a {
