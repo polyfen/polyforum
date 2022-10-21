@@ -16,7 +16,7 @@
       <div class="row" id="cover" style="padding: 200px 0 20px;background: white;margin: -90px -20px 20px; box-shadow: inset 0 0px 10px;">
         <div class="col" style="text-align:center;">
 
-          <h1 style="max-width: 460px;margin: auto;">A free-to-join global community of creatives</h1>
+          <h1 style="max-width: 460px;margin: auto;">A <span style="letter-spacing: -0.2px;color: #f75d78;">free-to-join</span> global community of creatives</h1>
           <hr style="width:300px;margin: 1.2rem auto;">
           <p style="max-width: 410px;text-align:center;">We're a non-profit organization dedicated to promoting free and open education and professional growth in the creative industry.</p>
         </div>
@@ -65,57 +65,60 @@
 
       <div class="row">
         <div class="col">
-
           <div class="row card-wrapper">
             <div class="col-12" style="padding-bottom:10px;">
-              <h2>Poly Atlas</h2>
+              <h2>Our Mission</h2>
               <div class="border" style="margin-top:-10px;">
               </div>
-
               <div class="col-12 col-md-6" id="education-image">
               </div>
-
               <div id="polyatlas-wrapper" class="col-12 col-md-6">
-
-                <p style="margin-top:30px;">A free guide of best practices in branding. It features a step-by-step guide to the branding process including practical tips, template files, and many other useful resources.</p>
-
-                <div class="card-buttons-wrapper">
-                  <a class="button" href="https://polyatlas.app" target="_blank">polyatlas.app <span style="opacity: 0.5;color: white;">›</span></a>
-                </div>
-
+                <p style="margin-top:30px;">We use new technologies to make education and professional growth more accessible in the creative industry world-wide.</p>
               </div>
             </div>
           </div>
         </div>
-
       </div>
 
       <div class="row">
         <div class="col">
-
           <div class="row card-wrapper">
             <div class="col-12">
               <h2>Join our Community!</h2>
               <div class="border" style="margin-top:-10px;">
               </div>
-
               <div class="col-12 col-md-6" id="slack-image">
               </div>
-
               <div id="slack-wrapper" class="col-12 col-md-6">
-
                 <p>Sign-up to our communication channels in Slack. A place to discuss design, share tips and resources, ask questions, and request feedback.</p>
-
                 <div class="card-buttons-wrapper" style="margin-top: -10px;margin-bottom: 10px;">
                   <a class="button" id="signup-button" href="https://polyforum.org/join" target="_blank">Sign-up</a>
                   <a class="button" id="login-button" href="https://polyforum.org/slack" target="_blank">Log-in</a>
                 </div>
-
               </div>
             </div>
           </div>
         </div>
+      </div>
 
+      <div class="row">
+        <div class="col">
+          <div class="row card-wrapper">
+            <div class="col-12" style="padding-bottom:10px;">
+              <h2>Poly Atlas</h2>
+              <div class="border" style="margin-top:-10px;">
+              </div>
+              <div class="col-12 col-md-6" id="education-image">
+              </div>
+              <div id="polyatlas-wrapper" class="col-12 col-md-6">
+                <p style="margin-top:30px;">A free guide of best practices in branding. It features a step-by-step guide to the branding process including practical tips, template files, and many other useful resources.</p>
+                <div class="card-buttons-wrapper">
+                  <a class="button" href="https://polyatlas.app" target="_blank">polyatlas.app <span style="opacity: 0.5;color: white;">›</span></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
 
     </div>

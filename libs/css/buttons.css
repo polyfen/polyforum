@@ -36,11 +36,11 @@ a#login-button:hover {
 
 button {
   padding: 7px 25px 3px;
-  border: 2px solid #b9b9b9;
+  border: 2px solid #fdb0bb;
   border-radius: 4px;
   background: #fdfdfd;
   letter-spacing: 0;
-  color: #b9b9b9;
+  color: #fdb0bb;
   text-transform: uppercase;
   font-size: 1rem;
   opacity: 0.8;
