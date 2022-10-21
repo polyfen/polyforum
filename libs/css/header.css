@@ -13,6 +13,14 @@
     width: auto;
   }
 
+  nav {
+    position: fixed;
+    top: 40px;
+    right: 20px;
+    z-index: 9;
+}
+
+
 /*---------- HEADER end ------------*/
 
 

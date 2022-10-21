@@ -16,9 +16,9 @@
       <div class="row" id="cover" style="padding: 200px 0 20px;background: white;margin: -90px -20px 20px; box-shadow: inset 0 0px 10px;">
         <div class="col" style="text-align:center;">
 
-          <h1 style="max-width: 460px;margin: auto;">An international community of creatives</h1>
+          <h1 style="max-width: 460px;margin: auto;">A free-to-join global community of creatives</h1>
           <hr style="width:300px;margin: 1.2rem auto;">
-          <p style="max-width: 410px;text-align:center;">We're a non-profit organization dedicated to promoting free and open education and networking in the creative industry.</p>
+          <p style="max-width: 410px;text-align:center;">We're a non-profit organization dedicated to promoting free and open education and professional growth in the creative industry.</p>
         </div>
 
       </div>
