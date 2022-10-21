@@ -11,7 +11,7 @@ html, body {
 }
 
 div#cover {
-  background: url('../../imgs/texture.png') repeat center !important;
+  background: #ffeeee;
 }
 
 #events-image {
@@ -27,20 +27,32 @@ div#cover {
 #education-image {
   height: 200px;
   width: 100%;
-  background: url('../../imgs/education.svg') no-repeat center;
+  background: url('../../imgs/brain-and-tech-illustration.png') no-repeat center;
   background-size: contain;
   border-radius: 0 0 6px 6px;
   margin-top: 40px;
+  opacity: 0.7;
+}
+
+#polyatlas-image {
+  height: 200px;
+  width: 100%;
+  background: url('../../imgs/web-illustration.png') no-repeat center;
+  background-size: contain;
+  border-radius: 0 0 6px 6px;
+  margin-top: 40px;
+  opacity: 0.7;
 }
 
 #slack-image {
   height: 200px;
   width: 100%;
-  background: url('../../imgs/slack.svg') no-repeat center;
+  background: url('../../imgs/community-illustration.png') no-repeat center;
   background-size: contain;
   border-radius: 0 0 6px 6px;
   margin-top: 40px;
   margin-bottom: 30px;
+  opacity: 0.8;
 }
 
 a#signup-button {
@@ -375,6 +387,10 @@ div#cookies-modal a.cookies-button {
   }
 
   #education-image {
+    float: right;
+  }
+
+  #polyatlas-image {
     float: right;
   }
 

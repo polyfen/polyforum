@@ -13,7 +13,7 @@
 
     <div class="container-fluid" style="padding: 0 20px;">
 
-      <div class="row" id="cover" style="padding: 200px 0 20px;background: white;margin: -90px -20px 20px; box-shadow: inset 0 0px 10px;">
+      <div class="row" id="cover" style="padding: 200px 0 20px;background: #ffeeee;margin: -90px -20px 20px; box-shadow: inset 0 0px 10px;">
         <div class="col" style="text-align:center;">
 
           <h1 style="max-width: 460px;margin: auto;">A <span style="letter-spacing: -0.2px;color: #f75d78;">free-to-join</span> global community of creatives</h1>
@@ -67,13 +67,13 @@
         <div class="col">
           <div class="row card-wrapper">
             <div class="col-12" style="padding-bottom:10px;">
-              <h2>Our Mission</h2>
+              <h2>Empowering passion</h2>
               <div class="border" style="margin-top:-10px;">
               </div>
               <div class="col-12 col-md-6" id="education-image">
               </div>
               <div id="polyatlas-wrapper" class="col-12 col-md-6">
-                <p style="margin-top:30px;">We use new technologies to make education and professional growth more accessible in the creative industry world-wide.</p>
+                <p style="margin-top:30px;">Our mission is to use new technologies to make education and professional growth more accessible in the creative industry world-wide.</p>
               </div>
             </div>
           </div>
@@ -108,12 +108,12 @@
               <h2>Poly Atlas</h2>
               <div class="border" style="margin-top:-10px;">
               </div>
-              <div class="col-12 col-md-6" id="education-image">
+              <div class="col-12 col-md-6" id="polyatlas-image">
               </div>
               <div id="polyatlas-wrapper" class="col-12 col-md-6">
                 <p style="margin-top:30px;">A free guide of best practices in branding. It features a step-by-step guide to the branding process including practical tips, template files, and many other useful resources.</p>
                 <div class="card-buttons-wrapper">
-                  <a class="button" href="https://polyatlas.app" target="_blank">polyatlas.app <span style="opacity: 0.5;color: white;">›</span></a>
+                  <a class="button" href="https://polyatlas.wiki" target="_blank">polyatlas.wiki <span style="opacity: 0.5;color: white;">›</span></a>
                 </div>
               </div>
             </div>

@@ -20,6 +20,14 @@
     z-index: 9;
 }
 
+@media (max-width: 1199px) {
+
+    nav {
+      position: absolute;
+      top: 15px;
+    }
+
+}
 
 /*---------- HEADER end ------------*/
 
