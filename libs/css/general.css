@@ -308,47 +308,36 @@ div.modal-window div.modal-window-content hr {
 
 div#cookies-modal {
   position: fixed;
-  right: 0px;
-  bottom: 0px;
-  background: #F9F9F9;
-  border-radius: 0px;
-  box-shadow: 0 0 10px #0004;
-  z-index: 999999;
-  padding: 15px 20px 50px;
-  width: 100%;
-  display: none;
+  top: 25px;
+  width: 900px;
+  left: calc(50% - 450px);
+  display: flex !important;
+  background: rgba(0, 0, 0, 0.75);
+  padding: 10px 20px;
+  border-radius: 6px;
+  backdrop-filter: blur(6px);
+  z-index: 10;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  align-content: center;
 }
 
-div#cookies-modal p, div#cookies-modal p a {
-  font-size: 1.2rem;
-  color: #0009;
-}
-
-div#cookies-modal p a:hover {
-  color: #000 !important;
-}
-
-div#cookies-modal a.cookies-button {
-  background: #F75E78;
-  border-radius: 100px;
-  width: calc(100% - 37px);
-  position: absolute;
-  padding: 7px 0 4px;
-  margin-top: -10px;
+div#cookies-modal button {
+  float: right;
   color: white;
-  box-shadow: 0 0 10px #F75E78;
-  font-size: 1.2rem;
+  border-color: white;
+  background: none;
+  padding-left: 18px;
 }
 
-@media (min-width:600px) {
+div#cookies-modal button:first-child {
+  margin-left: 6px;
+}
 
-  div#cookies-modal {
-    right: 20px;
-    bottom: 20px;
-    border-radius: 6px;
-    width: 320px;
-  }
-
+div#cookies-modal.cookies-d-none {
+  display: none !important;
 }
 
 /*///////////// COOKIES MODAL END /////////////*/

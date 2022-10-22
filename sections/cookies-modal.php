@@ -1,4 +1,3 @@
-<div id="cookies-modal" class="d-none">
-  <p>We use cookies to enhance your browsing experience. Learn more about our <a onclick="document.getElementById('privacy-policy').className='modal-wrapper d-block';document.documentElement.className='overflow-hidden';">Privacy Policy</a>.</p>
-  <a class="button cookies-button" onclick="document.getElementById('cookies-modal').className='d-none';">Got it!</a>
+<div id="cookies-modal">
+    Improve your experience accepting our cookies policy. <div id="cookies-modal-buttons"><button>👍 Accept cookies</button> <button onclick="document.getElementById('cookies-modal').className='cookies-d-none';">👎 Reject cookies</button></div>
 </div>
