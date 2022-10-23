@@ -29,6 +29,14 @@
 
 }
 
+@media (max-width: 500px) {
+
+  button#log-in-button {
+    display: none;
+  }
+
+}
+
 /*---------- HEADER end ------------*/
 
 
