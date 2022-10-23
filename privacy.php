@@ -5,11 +5,11 @@
     <title>Poly Forum | Privacy Policy</title>
 
 
-    !-- INCLUDE HEAD.PHP start -->
+    <!-- INCLUDE HEAD.PHP start -->
   <?php include 'sections/head.php';?>
 <!-- INCLUDE HEAD.PHP end -->
 
-  <body id="home">
+  <body id="privacy">
 
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P8K76NG"
@@ -18,9 +18,14 @@
 
     <!-- INCLUDE HEADER.PHP end -->
 
-      <div class="content-container">
+    <div class="container-fluid" style="padding: 0 20px;">
+
+    <div class="row">
+        <div class="col">
+          <div class="row card-wrapper">
+            <div class="col-12" style="padding-bottom:10px;">
         <h2>Privacy Policy</h2>
-        <p>Your privacy is important to us. It is The Poly Group&#39;s policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, <a href="https://polyfen.com">https://polyfen.com</a>, and other sites we own and operate. </p>
+        <p>Your privacy is important to us. It is The Poly Group&#39;s policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, <a href="https://polyforum.org">https://polyforum.org</a>, and other sites we own and operate. </p>
         <p>This policy is effective as of 4 September 2022 and was last updated on 4 September 2022. </p>
         <h3>Information We Collect</h3>
         <p>Information we collect includes both information you knowingly and actively provide us when using or participating in any of our services and promotions, and any information automatically sent by your devices in the course of accessing our products and services. </p>
@@ -94,6 +99,10 @@
         <p>The Poly Group<br />
         privacy@thepolygroup.co </p>
 
+      </div>
+      </div>
+      </div>
+      </div>
       </div>
 
     </div>
