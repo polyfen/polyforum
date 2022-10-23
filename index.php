@@ -110,7 +110,7 @@
         <div class="col">
           <div class="row card-wrapper">
             <div class="col-12" style="padding-bottom:10px;">
-              <h2>Poly Atlas</h2>
+              <h2>A wiki about Branding</h2>
               <div class="border" style="margin-top:-10px;">
               </div>
               <div class="col-12 col-md-6" id="polyatlas-image">
