@@ -1,7 +1,7 @@
 /*---------- TYPOGRAPHY start ------------*/
 
 * {
-  font-family: 'Biotif', Helvetica, Arial, sans-serif;
+  font-family: 'BiotifMedium', Helvetica, Arial, sans-serif;
   color: #D8D8D8 /* #cloud */;
 }
 
@@ -13,7 +13,7 @@ h1 /* (mobile) */ {
   font-weight: normal /* bold */;
   font-style: normal;
   color: #F75E78 /* #white */;
-  font-family: 'Biotif', Helvetica, Arial, sans-serif;
+  font-family: 'BiotifExtrabold', Helvetica, Arial, sans-serif;
   text-rendering: optimizeLegibility;
   font-kerning: normal !important;
   font-variant-ligatures: discretionary-ligatures;
@@ -21,6 +21,10 @@ h1 /* (mobile) */ {
   -ms-font-feature-settings: "kern", "liga", "clig", "calt", "dlig", "swsh";
   -webkit-font-feature-settings: "kern", "liga", "clig", "calt", "dlig", "swsh";
   font-feature-settings: "kern", "liga", "clig", "calt", "dlig", "swsh";
+}
+
+h1 span {
+  font-family: 'BiotifExtrabold', Helvetica, Arial, sans-serif;
 }
 
 h2 /* (mobile) */ {
@@ -31,7 +35,7 @@ h2 /* (mobile) */ {
   font-weight: normal /* bold */;
   font-style: normal;
   color: #F75E78;
-  font-family: 'Biotif', Helvetica, Arial, sans-serif;
+  font-family: 'BiotifBold', Helvetica, Arial, sans-serif;
   text-rendering: optimizeLegibility;
   font-kerning: normal !important;
   font-variant-ligatures: discretionary-ligatures;
@@ -121,7 +125,7 @@ button, a.buttons /* (mobile) */ {
   font-weight: normal /* semi-bold */;
   font-style: normal;
   color: #D8D8D8 /* cloud */;
-  font-family: 'Biotif', sans-serif;
+  font-family: 'BiotifBold', sans-serif;
   text-rendering: optimizeLegibility;
   font-kerning: normal !important;
   -moz-font-feature-settings: "kern", "liga", "clig", "calt";
@@ -138,7 +142,7 @@ a small, small /* (mobile) */ {
   font-weight: normal /* semi-bold */;
   font-style: normal;
   color: #D8D8D8 /*cloud*/;
-  font-family: 'Biotif', sans-serif;
+  font-family: 'BiotifMedium', sans-serif;
   text-rendering: optimizeLegibility;
   font-kerning: normal !important;
   -moz-font-feature-settings: "kern", "liga", "clig", "calt";
