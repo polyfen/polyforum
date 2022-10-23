@@ -88,6 +88,26 @@
       <div class="row">
         <div class="col">
           <div class="row card-wrapper">
+            <div class="col-12" style="padding-bottom:10px;">
+              <h2>A wiki about Branding</h2>
+              <div class="border" style="margin-top:-10px;">
+              </div>
+              <div class="col-12 col-md-6" id="polyatlas-image">
+              </div>
+              <div id="polyatlas-wrapper" class="col-12 col-md-6">
+                <p style="margin-top:30px;">A free guide of best practices in branding. It features a step-by-step guide to the branding process including practical tips, template files, and many other useful resources.</p>
+                <div class="card-buttons-wrapper">
+                  <a class="button" href="https://polyatlas.wiki" target="_blank">polyatlas.wiki <span style="opacity: 0.5;color: white;">›</span></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col">
+          <div class="row card-wrapper">
             <div class="col-12">
               <h2>Join our Community!</h2>
               <div class="border" style="margin-top:-10px;">
@@ -99,26 +119,6 @@
                 <div class="card-buttons-wrapper" style="margin-top: -10px;margin-bottom: 10px;">
                   <a class="button" id="signup-button" href="https://polyforum.org/join" target="_blank">Sign-up</a>
                   <a class="button" id="login-button" href="https://polyforum.org/slack" target="_blank">Log-in</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col">
-          <div class="row card-wrapper">
-            <div class="col-12" style="padding-bottom:10px;">
-              <h2>A wiki about Branding</h2>
-              <div class="border" style="margin-top:-10px;">
-              </div>
-              <div class="col-12 col-md-6" id="polyatlas-image">
-              </div>
-              <div id="polyatlas-wrapper" class="col-12 col-md-6">
-                <p style="margin-top:30px;">A free guide of best practices in branding. It features a step-by-step guide to the branding process including practical tips, template files, and many other useful resources.</p>
-                <div class="card-buttons-wrapper">
-                  <a class="button" href="https://polyatlas.wiki" target="_blank">polyatlas.wiki <span style="opacity: 0.5;color: white;">›</span></a>
                 </div>
               </div>
             </div>
