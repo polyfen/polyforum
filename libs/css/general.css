@@ -306,11 +306,17 @@ div.modal-window div.modal-window-content hr {
 
 /*///////////// COOKIES MODAL START /////////////*/
 
+div#cookies-modal-container {
+  display: flex;
+  justify-content: center;
+}
+
 div#cookies-modal {
   position: fixed;
-  top: 25px;
-  width: 900px;
-  left: calc(50% - 450px);
+  bottom: 6px;
+  width: calc(100% - 10px);
+  max-width: 900px;
+  margin: 0 auto;
   display: flex !important;
   background: rgba(0, 0, 0, 0.75);
   padding: 10px 20px;
@@ -320,8 +326,34 @@ div#cookies-modal {
   flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   align-content: center;
+}
+
+div#cookies-modal-buttons {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+@media (min-width: 768px) {
+
+  div#cookies-modal {
+  justify-content: space-between;
+  bottom: 20px;
+  }
+
+  div#cookies-modal-buttons {
+    margin: 0;
+  }
+
+}
+
+div#cookies-modal a {
+  color: #D8D8D8;
+}
+
+div#cookies-modal a:hover {
+  color: white;
 }
 
 div#cookies-modal button {
@@ -329,7 +361,15 @@ div#cookies-modal button {
   color: white;
   border-color: white;
   background: none;
-  padding-left: 18px;
+  font-size: 0.9rem;
+  font-family: 'BiotifMedium';
+  border-width: 1px;
+}
+
+div#cookies-modal button:hover {
+  background:white;
+  color: #444444;
+  box-shadow: none;
 }
 
 div#cookies-modal button:first-child {
