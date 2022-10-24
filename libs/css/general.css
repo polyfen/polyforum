@@ -27,17 +27,17 @@ div#cover {
 #education-image {
   height: 200px;
   width: 100%;
-  background: url('../../imgs/brain-and-tech-illustration.png') no-repeat center;
+  background: url('../../imgs/digital-empowerment-illustration.webp') no-repeat center;
   background-size: contain;
   border-radius: 0 0 6px 6px;
-  margin-top: 40px;
+  margin-top: 0px;
   opacity: 0.7;
 }
 
 #polyatlas-image {
   height: 200px;
   width: 100%;
-  background: url('../../imgs/web-illustration.png') no-repeat center;
+  background: url('../../imgs/web-illustration.webp') no-repeat center;
   background-size: contain;
   border-radius: 0 0 6px 6px;
   margin-top: 40px;
@@ -47,7 +47,7 @@ div#cover {
 #slack-image {
   height: 200px;
   width: 100%;
-  background: url('../../imgs/community-illustration.png') no-repeat center;
+  background: url('../../imgs/community-illustration.webp') no-repeat center;
   background-size: contain;
   border-radius: 0 0 6px 6px;
   margin-top: 40px;
