@@ -11,11 +11,19 @@
 
   <!-- META Page-Specific -->
   <meta property="og:title" content="Poly Forum"/>
-  <meta property="og:url" content="http://polyforum.org"/>
-  <meta name="keywords" content="creative, corporation, enterprise, portfolio, brand, branding" />
-  <meta name="description" property="og:description" content="A world-wide network of designers. A place to discuss branding, share tips and resources, ask questions, and request feedback." />
-  <meta property="og:image" content="http://polyforum.org/imgs/meta.png"/>
+  <meta property="og:url" content="https://polyforum.org"/>
+  <meta name="keywords" content="free, creative, community, slack, web, international, design, designers, marketing, education, non-profit, tech" />
+  <meta name="description" property="og:description" content="An international network of creatives. A place to discuss design, marketing and tech, share tips and resources, ask questions, and request feedback." />
+  <meta property="og:image" content="https://polyforum.org/imgs/thumbnail.png"/>
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@PolyfenAgency" />
+  <meta name="twitter:title" content="Poly Forum" />
+  <meta name="twitter:description" content="An international network of creatives. A place to discuss design, marketing and tech, share tips and resources, ask questions, and request feedback." />
+  <meta name="twitter:image" content="https://polyforum.org/imgs/thumbnail.png" />
   <meta name="robots" content="index,follow">
+  <!-- PAGE-SPECIFIC META end -->
 
 
   <!-- FAVICON -->
