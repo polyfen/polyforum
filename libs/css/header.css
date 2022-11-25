@@ -6,6 +6,12 @@
     position: absolute;
     top: 0;
     width: 100%;
+    z-index: 999;
+  }
+
+  header a, header a:hover {
+    text-decoration: none !important;
+    border-bottom: none;
   }
 
   header img#logo {
