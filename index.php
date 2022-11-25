@@ -88,11 +88,15 @@
                   <form action="https://polyforum.us13.list-manage.com/subscribe/post?u=1c1543196ef746efeaee1ba01&amp;id=0be410489f&amp;f_id=00e0dee2f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
                           <div id="mc_embed_signup_scroll">
                   <div class="mc-field-group">
-                    <input type="text" placeholder="First name" value="" name="FNAME" class="required" id="mce-FNAME" required>
+                    <label for="mce-FNAME">First name
+                    </label>
+                    <input type="text" value="" name="FNAME" class="required" id="mce-FNAME" required>
                     <span id="mce-FNAME-HELPERTEXT" class="helper_text"></span>
                   </div>
                   <div class="mc-field-group">
-                    <input type="email" placeholder="Email address" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
+                    <label for="mce-EMAIL">Email address
+                    </label>
+                    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
                     <span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
                   </div>
                   
