@@ -458,8 +458,8 @@ div#cookies-modal.cookies-d-none {
 @media (min-width: 992px) {
 
   div.card-wrapper {
-    max-width: 720px;
-    margin: 40px auto;
+    max-width: 1300px;
+    margin: 25px auto 25px;
   }
 
 }
