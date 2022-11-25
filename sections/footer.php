@@ -25,7 +25,7 @@
   <div style="clear:both"></div>
 
   <div id="legal">
-    <a onclick="document.getElementById('privacy-policy').className='modal-wrapper d-block';document.documentElement.className='overflow-hidden';" >Privacy Policy</a> <span style="color:#0002;margin:0 5px;">|</span> <a onclick="document.getElementById('terms-of-service').className='modal-wrapper d-block';document.documentElement.className='overflow-hidden';">Terms of Service</a>
+    <a href="https://polyforum.org/privacy.php" target="_blank">Privacy Policy</a>
   </div>
 
 </footer>
