@@ -83,20 +83,20 @@
                 </p>
 
                 <div id="form-container">
-                  <!-- Begin Mailchimp Signup Form -->
+                   <!-- Begin Mailchimp Signup Form -->
                 <div id="mc_embed_signup">
                   <form action="https://polyforum.us13.list-manage.com/subscribe/post?u=1c1543196ef746efeaee1ba01&amp;id=0be410489f&amp;f_id=00e0dee2f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
                           <div id="mc_embed_signup_scroll">
                   <div class="mc-field-group">
-                    <label for="mce-FNAME">First name
+                    <label for="mce-FNAME" style="display: none;">First name
                     </label>
-                    <input type="text" value="" name="FNAME" class="required" id="mce-FNAME" required>
+                    <input type="text" value="" name="FNAME" class="required" id="mce-FNAME" placeholder="First Name" required>
                     <span id="mce-FNAME-HELPERTEXT" class="helper_text"></span>
                   </div>
                   <div class="mc-field-group">
-                    <label for="mce-EMAIL">Email address
+                    <label for="mce-EMAIL" style="display: none;">Email address
                     </label>
-                    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
+                    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Your Email" required>
                     <span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
                   </div>
                   
