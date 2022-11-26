@@ -74,7 +74,7 @@
 
               <div class="col-6">
                 <div class="col-12" style="padding-bottom:10px;">
-                  <h2>A wiki about Branding</h2>
+                  <h2>A wiki about branding</h2>
                   <div class="border" style="margin-top:-10px;">
                   </div>
                   <div class="col-12 col-md-6" id="polyatlas-image">
@@ -89,14 +89,14 @@
             </div>
 
             <div class="col-6" style="padding-bottom:10px;">
-              <h2>Empower passion!</h2>
+              <h2>Get our newsletter</h2>
               <div class="border" style="margin-top:-10px;">
               </div>
               <div class="col-12 col-md-6" id="education-image">
               </div>
               <div id="polyatlas-wrapper" class="col-12 col-md-6">
               <p>
-                  Support our community and become a core member by staying up to date with our email newsletter.
+              Be the first to know about the most important news from our community by subscribing to our email newsletter.
                 </p>
 
                 <div id="form-container">
@@ -125,7 +125,7 @@
                       <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1c1543196ef746efeaee1ba01_0be410489f" tabindex="-1" value=""></div>
                           <div class="optionalParent">
                               <div class="clear foot">
-                                  <input type="submit" value="Get our News" name="subscribe" id="mc-embedded-subscribe" class="button">
+                                  <input type="submit" value="Subscribe!" name="subscribe" id="mc-embedded-subscribe" class="button">
                                   <p class="brandingLogo" style="display:none;"><a href="http://eepurl.com/idfsm9" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
                               </div>
                           </div>
@@ -143,8 +143,20 @@
 
         <div class="col">
           <div class="row card-wrapper">
+
+          <div class="col-6">
+              <h2>Wear our colors</h2>
+              <div class="border" style="margin-top:-10px;">
+              </div>
+              <div class="col-12 col-md-6" id="shop-image">
+              </div>
+              <div id="shop-wrapper" class="col-12 col-md-6">
+                <p>Webshop coming soon.</p>
+              </div>
+            </div>
+
             <div class="col-6">
-              <h2>Join our Community!</h2>
+              <h2>Join the conversation</h2>
               <div class="border" style="margin-top:-10px;">
               </div>
               <div class="col-12 col-md-6" id="slack-image">
@@ -158,20 +170,7 @@
               </div>
             </div>
 
-            <div class="col-6">
-              <h2>Wear our colors!</h2>
-              <div class="border" style="margin-top:-10px;">
-              </div>
-              <div class="col-12 col-md-6" id="slack-image">
-              </div>
-              <div id="slack-wrapper" class="col-12 col-md-6">
-                <p>Sign-up to our communication channels in Slack. A place to discuss design, share tips and resources, ask questions, and request feedback.</p>
-                <div class="card-buttons-wrapper" style="margin-top: -10px;margin-bottom: 10px;">
-                  <a class="button" id="signup-button" href="https://polyforum.org/join" target="_blank">Sign-up</a>
-                  <a class="button" id="login-button" href="https://polyforum.org/slack" target="_blank">Log-in</a>
-                </div>
-              </div>
-            </div>
+            
           </div>
         </div>
       </div>
