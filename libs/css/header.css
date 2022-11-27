@@ -21,9 +21,13 @@
 
   nav {
     position: fixed;
-    top: 40px;
+    top: 30px;
     right: 20px;
     z-index: 9;
+}
+
+header button#sign-up-button {
+  padding: 7px 17px 3px !important;
 }
 
 @media (max-width: 1199px) {

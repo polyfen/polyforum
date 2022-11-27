@@ -153,7 +153,7 @@
               <div id="slack-wrapper" class="col-12 col-md-6">
                 <p>Sign-up to our communication channels in Slack. A place to discuss design, share tips and resources, ask questions, and request feedback.</p>
                 <div class="card-buttons-wrapper" style="margin-top: -10px;margin-bottom: 10px;">
-                  <a class="button" id="signup-button" href="https://polyforum.org/join" target="_blank">Sign-up</a>
+                  <a class="button" id="signup-button" href="https://polyforum.org/join" target="_blank"><img src="imgs/slack-icon.svg"  height="16px" width="auto" style="margin-top:-4px;margin-left:-2px;margin-right:4px;"> Sign-up</a>
                   <a class="button" id="login-button" href="https://polyforum.org/slack" target="_blank">Log-in</a>
                 </div>
               </div>
