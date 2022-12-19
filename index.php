@@ -145,7 +145,7 @@
         <div class="col">
           <div class="row card-wrapper">
             <div class="col-12">
-              <h2>Join the conversation</h2>
+              <h2>Join the conversation!</h2>
               <div class="border" style="margin-top:-10px;">
               </div>
               <div class="col-12 col-md-6" id="slack-image">
