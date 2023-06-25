@@ -17,7 +17,7 @@
   </div>
 
   <div id="the-poly-group">
-    <a href="http://thepolygroup.co" target="_blank">
+    <a href="https://thepolygroup.co?utm_source=polyforum&utm_medium=referral" target="_blank">
       <img src="imgs/the-poly-group.svg" height="35px" width="auto" alt="The Poly Group">
     </a>
   </div>
