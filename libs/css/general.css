@@ -6,8 +6,7 @@
 }
 
 html, body {
-  background: #FBFBFB; /* Space */;
-  background: url('../../imgs/texture-b.png') repeat center !important;
+  background: #fff1f2; /* Space */;
 }
 
 div#cover {

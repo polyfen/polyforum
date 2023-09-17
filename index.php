@@ -18,12 +18,10 @@
 
     <div class="container-fluid" style="padding: 0 20px;">
 
-      <div class="row" id="cover" style="padding: 200px 0 20px;background: #ffeeee;margin: -90px -20px 20px; box-shadow: inset 0 0px 10px;">
+      <div class="row" id="cover" style="padding: 200px 0 20px;background: #331e33;margin: -90px -20px 20px; ">
         <div class="col" style="text-align:center;">
 
-          <h1 style="max-width: 460px;margin: auto;">A <span style="letter-spacing: -0.2px;color: #f75d78;">free-to-join</span> global community of creatives</h1>
-          <hr style="width:300px;margin: 1.2rem auto;">
-          <p style="max-width: 410px;text-align:center;">We're a non-profit organization dedicated to promoting free and open education and professional growth in the creative industry.</p>
+          <h1 style="max-width: 900px !important;margin: auto; text-transform: uppercase;">A global community<br>of creatives</h1>
         </div>
 
       </div>
