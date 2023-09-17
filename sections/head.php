@@ -1,16 +1,16 @@
 <head>
-  <title>Poly Forum</title>
+  <title>Poly Forum | Community of Creatives</title>
 
 
   <!-- META General -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta property="og:type" content="website"/>
-  <meta name="author"  content="The Poly Group" />
+  <meta name="author"  content="The Polyfen Group LLC" />
 
 
   <!-- META Page-Specific -->
-  <meta property="og:title" content="Poly Forum"/>
+  <meta property="og:title" content="Poly Forum | Community of Creatives"/>
   <meta property="og:url" content="https://polyforum.org"/>
   <meta name="keywords" content="free, creative, community, slack, web, international, design, designers, marketing, education, non-profit, tech" />
   <meta name="description" property="og:description" content="An international network of creatives. A place to discuss design, marketing and tech, share tips and resources, ask questions, and request feedback." />
@@ -18,8 +18,8 @@
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@PolyfenAgency" />
-  <meta name="twitter:title" content="Poly Forum" />
+  <meta name="twitter:site" content="@PolyfenGroup" />
+  <meta name="twitter:title" content="Poly Forum | Community of Creatives" />
   <meta name="twitter:description" content="An international network of creatives. A place to discuss design, marketing and tech, share tips and resources, ask questions, and request feedback." />
   <meta name="twitter:image" content="https://polyforum.org/imgs/thumbnail.png" />
   <meta name="robots" content="index,follow">
