@@ -2,9 +2,11 @@
 
 footer {
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
   width: 100%;
-  padding: 20px 10px 20px 20px;
+  padding: 20px 20px;
   border-top: 2px solid #0001;
 }
 
@@ -30,11 +32,7 @@ ul, li {
   margin-bottom: 0;
 }
 
-div#legal {
-  
-  margin-top: 10px;
-  padding-top: 20px;
-}
+
 
 div#legal a {
   color: #0005;
@@ -58,6 +56,13 @@ div#legal a:hover {
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
+  footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    padding: 20px 20px;
+  }
 }
 
 /* Large devices (desktops, 992px and up) */
