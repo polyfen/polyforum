@@ -1,9 +1,11 @@
 /*---------- FOOTER start ------------*/
 
 footer {
-  text-align: center;
+  display: flex;
+  justify-content: space-between;
   width: 100%;
   padding: 20px 10px 20px 20px;
+  border-top: 2px solid #0001;
 }
 
 footer div#the-poly-group a, footer div#social-icons a, footer div#the-poly-group a:hover, footer div#social-icons a:hover {
@@ -11,8 +13,7 @@ footer div#the-poly-group a, footer div#social-icons a, footer div#the-poly-grou
 }
 
 div#social-icons {
-  float: left;
-  padding-top: 5px;
+align-self: center;
 }
 
 div#the-poly-group {
@@ -30,7 +31,7 @@ ul, li {
 }
 
 div#legal {
-  border-top: 2px solid #0001;
+  
   margin-top: 10px;
   padding-top: 20px;
 }
