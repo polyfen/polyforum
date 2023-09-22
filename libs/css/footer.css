@@ -1,9 +1,13 @@
 /*---------- FOOTER start ------------*/
 
 footer {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
   width: 100%;
-  padding: 20px 10px 20px 20px;
+  padding: 20px 20px;
+  border-top: 2px solid #0001;
 }
 
 footer div#the-poly-group a, footer div#social-icons a, footer div#the-poly-group a:hover, footer div#social-icons a:hover {
@@ -11,8 +15,7 @@ footer div#the-poly-group a, footer div#social-icons a, footer div#the-poly-grou
 }
 
 div#social-icons {
-  float: left;
-  padding-top: 5px;
+align-self: center;
 }
 
 div#the-poly-group {
@@ -29,11 +32,7 @@ ul, li {
   margin-bottom: 0;
 }
 
-div#legal {
-  border-top: 2px solid #0001;
-  margin-top: 10px;
-  padding-top: 20px;
-}
+
 
 div#legal a {
   color: #0005;
@@ -57,6 +56,13 @@ div#legal a:hover {
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
+  footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    padding: 20px 20px;
+  }
 }
 
 /* Large devices (desktops, 992px and up) */

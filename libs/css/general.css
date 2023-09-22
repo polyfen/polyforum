@@ -444,13 +444,8 @@ div#cookies-modal.cookies-d-none {
   }
 
   footer {
-    padding-top: 80px !important;
+    padding-top: 25px !important;
   }
-
-  div#legal {
-    margin-top: -50px !important;
-  }
-
 }
 
 /* Large devices (desktops, 992px and up) */
