@@ -21,7 +21,7 @@
   </div>
   
   <div id="the-poly-group">
-    <a href="https://thepolygroup.co?utm_source=polyforum&utm_medium=referral" target="_blank">
+    <a href="https://thepolyfengroup.com/?utm_source=polyforum&utm_medium=referral" target="_blank">
     <img src="imgs/the-polyfen-group-low-alt.svg" width="80px" id="tpg-logo-low" class="tpg-logo" onmouseover="document.getElementById('tpg-logo-low').className='d-none';document.getElementById('tpg-logo').className='tpg-logo';">
     <img src="imgs/the-polyfen-group-alt.svg" width="80px" id="tpg-logo" class="d-none" onmouseout="document.getElementById('tpg-logo').className='d-none';document.getElementById('tpg-logo-low').className='tpg-logo';">
     </a>
